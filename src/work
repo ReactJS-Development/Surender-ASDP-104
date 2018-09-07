@@ -1,0 +1,5 @@
+Create two react components. 
+	One component should have yellow backgroud and red foreground color. First line of this component should say "Hi, this is Red component" and it should have an animal picture below.
+	The second component should have purple backgroud and black font color. The text should read "Hi, this is Black Component" and it should have a building picture. 
+	
+	Every 30 seconds, these two components should flip so first component will show up first and in 30 seconds, that component will hide and you should see second component and so on.
